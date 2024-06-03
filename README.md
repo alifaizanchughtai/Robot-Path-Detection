@@ -15,12 +15,8 @@ In this project, we explore different AI models to detect the path of a robot. E
 3. **Neural Network Path Detection**: Here, we implement a neural network model using TensorFlow for path detection.
 
 ## Screenshots
-![1](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/99c03f85-69dc-4c4b-90d8-3b8bca028265)
-![2](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/5c06400d-eb0f-477f-a82a-17c31cc8e9ff)
-![3](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/43a937e2-4323-4014-82f2-ede122411abd)
-![4](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/59b9ca61-758d-4142-bc10-8e7e38a55fcf)
-![5](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/83527b7e-c178-4a28-bd6d-9262d47006fe)
-
-
-
-
+![1](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/468ce56c-1bf8-42a0-950c-00476c2c26b7)
+![2](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/b9bf3664-a059-4fce-964f-474b8afb43c8)
+![3](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/fe7acd1e-f9e5-4f73-8c46-c0c269d2d9ed)
+![4](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/acb7e285-c9ec-4569-a3d9-71eada74bf3b)
+![5](https://github.com/alifaizanchughtai/Robot-Path-Detection/assets/139624731/2dfa8d12-c820-436c-b401-79c7284c01ee)
